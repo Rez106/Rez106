@@ -32,8 +32,9 @@
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-    <img src="https://img.shields.io/badge/vuejs-%ffffff.svg?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Vuejs-%ffffff.svg?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Nuxtjs-%ffffff.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Vuetify-%ffffff.svg?style=for-the-badge&logo=vuetify&logoColor=ffffff" />
   </div>
 </div>
 
